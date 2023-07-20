@@ -6,7 +6,7 @@ It was called SpiderMonkey, and is still used in Firefox today
 
 V8 compiles JavaScript directly to native machine code that your computer can execute
 
-V8 engine was first created in 2008 by Google for use in Chrome
+V8 engine was created in 2008 by Google for use in Chrome
 Google was having trouble with JavaScript performance for Google Maps and Gmail
 
 Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine
@@ -15,3 +15,13 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine
 
 /* -------------------------------------------------------------------------- */
 
+/*
+** JAVASCRIPT COMPILERS **
+
+Babel is a compiler that takes ultra modern JavaScript and compiles it down to JavaScript that works in any browser
+
+TypeScript is a superset of JavaScript that compiles down to plain JavaScript
+
+*/
+
+/* -------------------------------------------------------------------------- */
