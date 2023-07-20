@@ -1,6 +1,9 @@
 /*
 ** JAVASCRIPT ENGINES **
 
+The first engine was created by Brendan Eich in 1995 for Netscape Navigator
+It was called SpiderMonkey, and is still used in Firefox today
+
 V8 compiles JavaScript directly to native machine code that your computer can execute
 
 V8 engine was first created in 2008 by Google for use in Chrome
